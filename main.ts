@@ -1,4 +1,4 @@
-import { MqttServer } from "https://github.com/seriousme/opifex/server/mod.ts";
+import { MqttServer } from "https://raw.githubusercontent.com/seriousme/opifex/main/server/mod.ts";
 
 // Define MQTT server options (customize as needed)
 const mqttOptions = {
